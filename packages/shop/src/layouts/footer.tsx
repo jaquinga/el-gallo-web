@@ -27,11 +27,11 @@ const Footer = () => {
     <Box>
       <FormattedMessage
         id='siteFooter'
-        defaultMessage='PickBazar is a product of'
+        defaultMessage='Todos los derechos reservados El Gallo Market - '
       />
       &nbsp;
       <a href='#' target='_blank'>
-        RedQ, Inc.
+        A-CODE
       </a>
     </Box>
   );

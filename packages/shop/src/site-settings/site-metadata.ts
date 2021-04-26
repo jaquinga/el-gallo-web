@@ -1,7 +1,7 @@
 export const siteMetadata = {
-  title: `PickBazar`,
+  title: `El Gallo Market`,
   author: {
-    name: `RedQ, Inc`,
+    name: `A-CODE, Soft`,
     summary: ``,
   },
   description: ``,
